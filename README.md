@@ -7,7 +7,7 @@ I specialize in software development, process optimization, and building solutio
 
 ## 🔧 Skills  
 💻 **Languages:** Python, C# JavaScript, R, VBA 
-🚀 **Frameworks:** React, Flask, FastAPI, TailwindCSS  
+🚀 **Frameworks:** React, Flask, FastAPI, TailwindCSS <br />  
 🛠️ **Tools:** Git, Docker, Figma  
 
 ---
