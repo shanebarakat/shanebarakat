@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🌌 Welcome to My GitHub  
 
-<!--
-**shanebarakat/shanebarakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hi, I’m Shane Rohan Barakat**—a second-year Management Engineering student at the University of Waterloo.  
+I specialize in software development, process optimization, and building solutions that make an impact.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills  
+💻 **Languages:** Python, C# JavaScript, R, VBA 
+🚀 **Frameworks:** React, Flask, FastAPI, TailwindCSS  
+🛠️ **Tools:** Git, Docker, Figma  
+
+---
+
+## 🌟 Selected Projects  
+💜 **[Palkia AI](#):** AI Powered Bug Tickets to improve communications in tech teams 
+🪙 **[HoloFund](#):** Blockchain-powered charity app for transparent donations (Hackathon winner).  
+🪑 **[Spaces](#):** An app to help students discover optimal study spaces.  
+
+---
+
+## 📫 Let’s Connect  
+📧 [Email](mailto:srbarakat@uwaterloo.ca) | 💼 [LinkedIn](https://linkedin.com/in/shane-barakat)  
+
