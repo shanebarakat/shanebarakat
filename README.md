@@ -9,14 +9,6 @@ I specialize in software development, process optimization, and building solutio
 💻 **Languages:** Python, C#, Typescript, JavaScript, R, VBA  
 🚀 **Frameworks:** .NET, React, Flask, FastAPI, TailwindCSS  
 🛠️ **Tools:** Git, Docker, Figma  
-
----
-
-## 🌟 Selected Projects  
-💜 **[Palkia AI](#):** AI-Powered Bug Tickets to improve communications in tech teams.  
-🪙 **[HoloFund](#):** Blockchain-powered charity app for transparent donations (Hackathon winner).  
-🪑 **[Spaces](#):** An app to help students discover optimal study spaces.  
-
 ---
 
 ## 📫 Let’s Connect  
