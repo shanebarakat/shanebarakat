@@ -1,6 +1,6 @@
 # 🌌 Welcome to My GitHub  
 
-👋 **Hi, I’m Shane Rohan Barakat!**  
+👋 **Hi, I’m Shane Barakat!**  
 I'm a second-year **Management Engineering** student at the **University of Waterloo**, passionate about **software development**, **process optimization**, and crafting impactful solutions.
 
 ---
